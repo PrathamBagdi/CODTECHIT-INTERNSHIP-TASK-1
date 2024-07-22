@@ -1,9 +1,9 @@
-**Name:** Pratham DhirajSingh Bagdi
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT12DS1661
-**Domain:** Python Programming
-**Duration:** July to September 2024
-**Mentor:** Anant More
+**Name:** Pratham DhirajSingh Bagdi        
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT12DS1661  
+**Domain:** Python Programming  
+**Duration:** July to September 2024  
+**Mentor:** Anant More  
 
 
 # Overview of the Project
